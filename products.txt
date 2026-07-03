@@ -1,0 +1,5 @@
+1,Laptop,55000,8
+2,Mouse,500,20
+3,Keyboard,1200,11
+4,Headphones,2500,10
+5,Monitor,15000,5
